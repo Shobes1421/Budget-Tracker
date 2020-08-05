@@ -23,11 +23,11 @@ An application that allows the User to keep a budget.
 
 ## Installation
 
-npm install
+Visit the application live link below
 
 ## Usage
 
-npm start
+Add a total budget, then, enter the 
 
 ## License
     
