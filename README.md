@@ -27,7 +27,7 @@ Visit the application live link below
 
 ## Usage
 
-Add a total budget, then, enter the 
+Add a total budget, then, enter an expense and the budget will reflect the expense.
 
 ## License
     
